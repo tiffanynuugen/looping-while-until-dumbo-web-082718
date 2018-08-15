@@ -3,4 +3,5 @@ def using_while
 	while count < 10
 		puts "Wingardium Leviosa"
 		count += 1
+ end
 end
